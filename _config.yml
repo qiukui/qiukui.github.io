@@ -8,14 +8,14 @@ safe:  false
 title: Jekyll Theme
 description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
-url: http://pizn.github.io/kunka
+url: http://qiukui.github.io
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
 #Nav config
 nav:
   - text: 首页
-    url: qiukui/index.html
+    url: /index.html
   - text: 分类目录 
     url: /categories.html
   - text: 文章归档
