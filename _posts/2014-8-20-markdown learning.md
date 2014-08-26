@@ -2,9 +2,9 @@
 layout: post
 title: Markdown learning!
 category: "markdown"
+tag: "markdown"
 ---
 
-##引言##
 
 1. 这篇文章主要记录一些 markdown 语法摘要，随时补充，随时修改完善。  
 2. 学习贵在坚持，不积跬步，无以至千里。
