@@ -27,13 +27,13 @@ tag: "markdown"
 	+ 无序项2 
 	+ 无序项3
 7. 使用4个以上的空格或一个以上的 tab 来标记代码段落  
-8. 使用 [百度](http://www.baidu.com "title") 来标记普通链接  
+8. 使用 \[百度\]\(http://www.baidu.com "title"\) 来标记普通链接  
 9. 使用 ![img](http://image6.tuku.cn/pic/wallpaper/fengjing/yangguangshatanhaian/020.jpg) 来标记图片  
 
 ###给力的特性
 
-1. 普通换行并不会产生新的段落或<br\>,但是产生空格   
-> 可以手动的将文字折行，插入<br\>, 比如  
+1. 普通换行并不会产生新的段落或 <br\>,但是产生空格   
+> 可以手动的将文字折行，插入 <br\> 比如  
 > <br>我<br>其实<br>是一首诗  
 
 2. 支持引用式的链接格式，  
