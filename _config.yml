@@ -5,9 +5,9 @@ paginate: 8
 safe:  false
 
 #Site config
-title: Jekyll Theme
-description: Just another Jekyll theme design and code by zhanxin.info.
-keywords: Jekyll Theme
+title: 球魁
+description: 球魁，一个ITer的个人主页
+keywords: C++, Linux
 url: http://qiukui.github.io
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
