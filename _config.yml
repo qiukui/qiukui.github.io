@@ -41,13 +41,9 @@ follow:
   - class: icon-rss
     url: /atom.xml
   - class: icon-weibo
-    url: http://weibo.com/pizn
-  - class: icon-renren
-    url: http://renren.com
+    url: http://weibo.com/congkun
   - class: icon-github-alt
-    url: http://github.com/pizn
-  - class: icon-twitter
-    url: http://twitter.com/piznlin
+    url: http://github.com/qiukui
   - class: icon-google-plus
     url: http://google.com
 
