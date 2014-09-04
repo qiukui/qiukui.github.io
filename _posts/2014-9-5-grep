@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Linux命令学习——grep
+category: "Linux命令","grep"
+tag: "Linux命令","grep"
+---
+
+>    grep命令是Linux系统下的一种强大的文本搜索工具,它能使用正则表达式搜索文本,并把匹配的行打印出来。
+
+>    grep命令的基本格式：grep [options] pattern File ... ，该命令将在文件File中搜索匹配模式串pattern的行。
+
+
